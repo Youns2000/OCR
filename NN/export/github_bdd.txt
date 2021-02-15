@@ -1,0 +1,1 @@
+https://github.com/dethi/ocr/tree/master/training
